@@ -3,7 +3,7 @@ connect4 game using python Tkinter canvas
 
 <img src="Screen Shot 1.png">
 
-<img src="Screen Shot 1.png">
+<img src="Screen Shot 2.png">
 
 <img src="code.png">
 
